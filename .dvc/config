@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://dagshub.com/Talha1068/23L_0902_A2_Ops.dvc
